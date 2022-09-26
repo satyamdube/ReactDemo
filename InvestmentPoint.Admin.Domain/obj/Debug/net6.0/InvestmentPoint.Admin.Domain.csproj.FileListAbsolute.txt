@@ -1,0 +1,12 @@
+E:\Shubu Code\ND Infotech\InvestmentPoint.Admin.Domain\obj\Debug\net6.0\InvestmentPoint.Admin.Domain.csproj.AssemblyReference.cache
+E:\Shubu Code\ND Infotech\InvestmentPoint.Admin.Domain\obj\Debug\net6.0\InvestmentPoint.Admin.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shubu Code\ND Infotech\InvestmentPoint.Admin.Domain\obj\Debug\net6.0\InvestmentPoint.Admin.Domain.AssemblyInfoInputs.cache
+E:\Shubu Code\ND Infotech\InvestmentPoint.Admin.Domain\obj\Debug\net6.0\InvestmentPoint.Admin.Domain.AssemblyInfo.cs
+E:\Shubu Code\ND Infotech\InvestmentPoint.Admin.Domain\obj\Debug\net6.0\InvestmentPoint.Admin.Domain.csproj.CoreCompileInputs.cache
+E:\Shubu Code\ND Infotech\InvestmentPoint.Admin.Domain\bin\Debug\net6.0\InvestmentPoint.Admin.Domain.deps.json
+E:\Shubu Code\ND Infotech\InvestmentPoint.Admin.Domain\bin\Debug\net6.0\InvestmentPoint.Admin.Domain.dll
+E:\Shubu Code\ND Infotech\InvestmentPoint.Admin.Domain\bin\Debug\net6.0\InvestmentPoint.Admin.Domain.pdb
+E:\Shubu Code\ND Infotech\InvestmentPoint.Admin.Domain\obj\Debug\net6.0\InvestmentPoint.Admin.Domain.dll
+E:\Shubu Code\ND Infotech\InvestmentPoint.Admin.Domain\obj\Debug\net6.0\refint\InvestmentPoint.Admin.Domain.dll
+E:\Shubu Code\ND Infotech\InvestmentPoint.Admin.Domain\obj\Debug\net6.0\InvestmentPoint.Admin.Domain.pdb
+E:\Shubu Code\ND Infotech\InvestmentPoint.Admin.Domain\obj\Debug\net6.0\ref\InvestmentPoint.Admin.Domain.dll
